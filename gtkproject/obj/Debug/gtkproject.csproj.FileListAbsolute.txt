@@ -1,0 +1,22 @@
+/home/guido/Projects/primerApp/gtkproject/bin/Debug/gtkproject.exe
+/home/guido/Projects/primerApp/gtkproject/bin/Debug/gtkproject.pdb
+/home/guido/Projects/primerApp/gtkproject/obj/Debug/gtkproject.csprojAssemblyReference.cache
+/home/guido/Projects/primerApp/gtkproject/obj/Debug/gtkproject.csproj.CoreCompileInputs.cache
+/home/guido/Projects/primerApp/gtkproject/obj/Debug/gtkproject.exe
+/home/guido/Projects/primerApp/gtkproject/obj/Debug/gtkproject.pdb
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP7/gtkproject/bin/Debug/gtkproject.exe
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP7/gtkproject/bin/Debug/gtkproject.pdb
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP7/gtkproject/obj/Debug/gtkproject.csprojAssemblyReference.cache
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP7/gtkproject/obj/Debug/gtkproject.csproj.CoreCompileInputs.cache
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP7/gtkproject/obj/Debug/gtkproject.exe
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP7/gtkproject/obj/Debug/gtkproject.pdb
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/bin/Debug/gtkproject.exe
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/bin/Debug/gtkproject.pdb
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/obj/Debug/gtkproject.csprojAssemblyReference.cache
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/obj/Debug/gtkproject.csproj.CoreCompileInputs.cache
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/obj/Debug/gtkproject.exe
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/obj/Debug/gtkproject.pdb
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/bin/Debug/libstetic.dll
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/bin/Debug/libstetic.xml
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/bin/Debug/libstetic.dll.config
+/media/New_Volume/Datos/Documentos/Facultad/Cursando/Taller de lenguajes I/RepoGIT/TP8/gtkproject/obj/Debug/gtkproject.csproj.CopyComplete
