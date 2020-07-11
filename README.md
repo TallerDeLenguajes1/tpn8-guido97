@@ -1,4 +1,6 @@
 ## Resolución TP8
+![Calculadora en GTK](./Calculadora.png)
+
 ### 2) Investigue sobre:
 #### 	a) Objetos del tipo LinkedList y List, ¿Cuales son las diferencias que tienen?
 Una list, es un arreglo (de hecho es igual a ArrayList, pero con tipo genérico) mientras que LinkedList es una lista enlazada. Por ello la principal diferencia es en rendimiento, siendo mejor LinkedList cuando se añade o remueven valores lejanos del principio en memoria, ya que todas las operaciones son O(1), es decir, no dependen de la cantidad de elementos, ya que se usan nodos independientes. Además conviene usar LinkedList si se quiere acceder 
@@ -17,3 +19,4 @@ Un ejemplo de código reutilizable es aquel para el manejo de archivos.
 #### 	d) como se agrega la referencia a una biblioteca de clase en su proyecto
 
 A través de la interfaz gráfica, con boton derecho en referencias y agregando la de nuestro interés. O con la palabra clave "using"
+
